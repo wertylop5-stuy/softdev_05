@@ -13,8 +13,8 @@
 		</tr>
 		{% for item in occupations %}
 		<tr>
-			<td>{{item}}</td>
-			<td>{{occupations[item]}}</td>
+			<td><a href="{{occupations[item][1]}}">{{item}}</a></td>
+			<td>{{occupations[item][0]}}</td>
 		</tr>
 		{% endfor %}
 	</table> 

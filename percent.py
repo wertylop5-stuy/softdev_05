@@ -10,8 +10,9 @@ def getOccupations():
 		#toss out the first row
 		reader.next()
 		
+		#store percent and url in tuples
 		for x in reader:
-			occupations[x[0]] = float(x[1])
+			occupations[x[0]] = (float(x[1]), x[2])
 			
 		return occupations
 
@@ -27,9 +28,9 @@ def getRandomOccupation(occupations):
 
 	for elem in occupations:
 		if elem == "Total":
-			total = float(occupations[elem])
+			total = float(occupations[elem][0])
 		else:
-			percents.append([float(occupations[elem]), elem])
+			percents.append([float(occupations[elem][0]), elem])
 
 	for x in range(0, len(percents)):
 		percents[x][0] /= total

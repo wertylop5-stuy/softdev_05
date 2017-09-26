@@ -1,24 +1,24 @@
-Job Class,Percentage
-Management,6.1
-Business and Financial operations,5
-Computer and Mathematical,2.7
-Architecture and Engineering,1.7
-"Life, Physical and Social Science",0.9
-Community and Social Service,1.6
-Legal,0.8
-"Education, training and library",6.1
-"Arts, design, entertainment, sports and media",1.7
-Healthcare practioners and technical,5.5
-Healthcare support,2.8
-Protective service,2.3
-Food preparation and serving,8.3
-Building and grounds cleaning and maintenance,3.7
-Personal care and service,4
-Sales,10.2
-Office and administrative support,15.1
-"Farming, fishing and forestry",0.6
-Construction and extraction,4.3
-"Installation, maintenance and repair",3.8
-Production,6.1
-Transportation and material moving,6.5
-Total,99.8
+Job Class,Percentage,URL
+Management,6.1,https://www.udemy.com/principles-of-management/
+Business and Financial operations,5,https://learn.saylor.org/course/bus101
+Computer and Mathematical,2.7,https://www.udacity.com/course/intro-to-computer-science--cs101
+Architecture and Engineering,1.7,https://www.arch.columbia.edu/programs/2-intro-to-architecture
+"Life, Physical and Social Science",0.9,http://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-00.pdf
+Community and Social Service,1.6,http://www.open.edu/openlearn/health-sports-psychology/social-care/social-work/introduction-social-work/content-section-0
+Legal,0.8,https://www.coursera.org/learn/american-law
+"Education, training and library",6.1,https://www.coursera.org/learn/teaching
+"Arts, design, entertainment, sports and media",1.7,https://ocw.mit.edu/courses/literature/21l-015-introduction-to-media-studies-fall-2005/
+Healthcare practioners and technical,5.5,https://www.coursera.org/learn/hi-five-clinical/lecture/NAv03/introduction-to-healthcare-data-analytics-overview
+Healthcare support,2.8,http://www.jblearning.com/samples/0763746878/46878_CH01_pass1.pdf
+Protective service,2.3,https://www.dss.virginia.gov/files/division/dfs/cps/intro_page/manuals/02-2013/section_1_introduction_to_cps.pdf
+Food preparation and serving,8.3,https://www.coursera.org/learn/food-and-health
+Building and grounds cleaning and maintenance,3.7,"https://www.indeed.com/q-Maintenance-Janitorial-l-New-York,-NY-jobs.html"
+Personal care and service,4,https://www.gadoe.org/Curriculum-Instruction-and-Assessment/CTAE/Documents/Introduction-to-Personal-Care-Services.pdf
+Sales,10.2,https://www.udemy.com/introduction-to-sales/
+Office and administrative support,15.1,http://www.citytowninfo.com/employment/secretaries/new-york
+"Farming, fishing and forestry",0.6,https://caep.org/agriculture-training-programs.php
+Construction and extraction,4.3,http://www.trainup.com/Construction-Training-In-New-York-NY/2496/81
+"Installation, maintenance and repair",3.8,https://www.iapcollege.com/program/handyman-business-certificate-course-online/
+Production,6.1,http://study.com/articles/How_to_Become_a_Production_Line_Worker.html
+Transportation and material moving,6.5,https://www.indeed.com/q-Paid-CDL-Training-jobs.html
+Total,99.8,
