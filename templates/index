@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title> {{title}} </title>
+</head>
+
+<body>
+	<table>
+		<tr>
+			<th>Job Class</th>
+			<th>Percentage</th>
+		</tr>
+		{% for item in occupations %}
+		<tr>
+			<td>{{item.name}}</td>
+			<td>{{item.percent}}</td>
+		</tr>
+		{% endfor %}
+	</table> 
+</body>
+</html>
