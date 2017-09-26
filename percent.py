@@ -28,8 +28,8 @@ def getRandomOccupation(occupations):
 	for elem in occupations:
 		if elem == "Total":
 			total = float(occupations[elem])
-		#else:
-		percents.append([float(occupations[elem]), elem])
+		else:
+			percents.append([float(occupations[elem]), elem])
 
 	for x in range(0, len(percents)):
 		percents[x][0] /= total
