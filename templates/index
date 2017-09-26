@@ -13,10 +13,11 @@
 		</tr>
 		{% for item in occupations %}
 		<tr>
-			<td>{{item.name}}</td>
-			<td>{{item.percent}}</td>
+			<td>{{item}}</td>
+			<td>{{occupations[item]}}</td>
 		</tr>
 		{% endfor %}
 	</table> 
+	<h1>{{randomOccupation}}</h1>
 </body>
 </html>
