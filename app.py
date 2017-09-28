@@ -1,11 +1,7 @@
 from flask import Flask, render_template
-import csv
-import random
-import percent
+from utils import percent
 
 app = Flask(__name__)
-
-
 
 @app.route('/occupations')
 def occupations():
